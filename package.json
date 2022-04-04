@@ -1,0 +1,35 @@
+{
+  "name": "next-app",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@hookform/resolvers": "^2.8.8",
+    "@material-tailwind/react": "0.3.4",
+    "@reduxjs/toolkit": "^1.7.2",
+    "material-icons": "^1.10.7",
+    "medium-zoom": "^1.0.6",
+    "next": "12.0.10",
+    "nprogress": "^0.2.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-hook-form": "^7.27.1",
+    "react-icons": "^4.3.1",
+    "react-redux": "^7.2.6",
+    "react-slick": "^0.28.1",
+    "react-spinners": "^0.11.0",
+    "react-spring": "^9.4.3",
+    "react-toastify": "^8.2.0",
+    "slick-carousel": "^1.8.1",
+    "tailwindcss": "^3.0.22",
+    "yup": "^0.32.11"
+  },
+  "devDependencies": {
+    "eslint": "8.8.0",
+    "eslint-config-next": "12.0.10"
+  }
+}
